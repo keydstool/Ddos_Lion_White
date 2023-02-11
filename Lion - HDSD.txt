@@ -1,0 +1,1 @@
+Chạy 100% Trên Google Shell | Nếu Chạy Bằng CMD or Termux Sẽ Mất Mạng Ngay 
