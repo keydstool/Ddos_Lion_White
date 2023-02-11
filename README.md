@@ -1,9 +1,7 @@
 # LION - WHITE
-Lion-White Đang Trong Quá Trình Test
 
-Scr Này Chỉ Hoạt Động Trên Google Shell 
-
-Lệnh :
+Tool Chỉ Hoạt Động Trên Google Cloud (gg shell)
+Lệnh Vào Tool :
 
 - - - - - - - - - - - - - - - - - - - - - - - - -
 
